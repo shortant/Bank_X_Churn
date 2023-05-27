@@ -3,7 +3,7 @@
 
 ## Files:
 
- - Bank_Churn.twbx/ Bank_Churn.png  <br />
+ - _Bank_Churn.twbx/ Bank_Churn.png_  <br />
    Dashboard of Bank X Churn based off DecisionTree (Tableau & PDF Version)
  - Bank X Churn DT.docx/ Bank X Churn DT.pdf
  - Customer Churn Via Decison Tree Notebook/ Customer Churn Via Decison Tree.ipynb
