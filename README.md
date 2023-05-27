@@ -2,9 +2,9 @@
 
 ## Files:
 
- - Bank_Churn.twbx/.png
- - Bank X Churn DT.docx/.pdf
- - Customer Churn Via Decison Tree Notebook/.ipynb
+ - Bank_Churn.twbx/ Bank_Churn.png
+ - Bank X Churn DT.docx/ Bank X Churn DT.pdf
+ - Customer Churn Via Decison Tree Notebook/ Customer Churn Via Decison Tree.ipynb
  - Customer-Churn-Records.csv
  
 ## Python Libraries
