@@ -2,15 +2,14 @@
 ### Overview:
 The Files within this repository gives a comprehensive overview to the Dataset Bank Churn Challenge. Using a DecisionTree, we have identified primary data points effecting "Bank X's" Churn rate for customer retention. The accompanying Dashobard and Summary provide Suggested action based off Analysis of DecisontTree Machine Learning(Jupyter Notebook). Please feel free to examine the project in it's entirety in this repository!
 ## Files:
+### Summary of Machine Learning Process & Findings
+https://docs.google.com/document/d/e/2PACX-1vSoj0216Z2H1--dHLHkqUNwHo22X3JpvIGlItDOUtqX-3LYFRQsgIZB1dQN_q8GGkOLTZ9o8o-VvRO5/pub
 
+ 
  - _Bank_Churn.twbx/ Bank_Churn.png_  <br />
  Dashboard of Bank X Churn based off DecisionTree (Tableau & PDF Version)
-   
-   
- - _Bank X Churn DT.docx/ Bank X Churn DT.pdf_  <br />
- Summary of Machine Learning Process & Findings
-   
-   
+
+    
  - _Customer Churn Via Decison Tree Notebook/ Customer Churn Via Decison Tree.ipynb_  <br />
  PDF version & actual Python code for Bank X Churn from a DecisionTree
  
@@ -34,4 +33,3 @@ https://public.tableau.com/app/profile/anthony.shortt
 www.linkedin.com/in/anthonyshortt
 
 
-https://docs.google.com/document/d/e/2PACX-1vSoj0216Z2H1--dHLHkqUNwHo22X3JpvIGlItDOUtqX-3LYFRQsgIZB1dQN_q8GGkOLTZ9o8o-VvRO5/pub
