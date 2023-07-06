@@ -33,3 +33,5 @@ https://public.tableau.com/app/profile/anthony.shortt
 ### LinkedIn
 www.linkedin.com/in/anthonyshortt
 
+
+https://docs.google.com/document/d/e/2PACX-1vSoj0216Z2H1--dHLHkqUNwHo22X3JpvIGlItDOUtqX-3LYFRQsgIZB1dQN_q8GGkOLTZ9o8o-VvRO5/pub
